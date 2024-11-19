@@ -1,0 +1,18 @@
+{
+    "JOE": {
+        "name": "Joe",
+        "phone": null,
+        "email": null,
+        "_Person__pay_rate": 0,
+        "_Person__shift_availability": {
+            "SUN": {},
+            "MON": {},
+            "TUE": {},
+            "WED": {},
+            "THU": {},
+            "FRI": {},
+            "SAT": {}
+        },
+        "_Person__shift_exceptions": {}
+    }
+}
