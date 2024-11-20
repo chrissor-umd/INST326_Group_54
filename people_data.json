@@ -9,6 +9,10 @@
                 "07:00": [
                     "preferred",
                     false
+                ],
+                "13:00": [
+                    "preferred",
+                    false
                 ]
             }
         },
