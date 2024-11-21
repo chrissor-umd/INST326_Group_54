@@ -1,0 +1,66 @@
+{
+    "JOE": {
+        "is_person": true,
+        "name": "Joe",
+        "phone": null,
+        "email": null,
+        "_Person__pay_rate": 0,
+        "_Person__shift_exceptions": {
+            "2024-11-20T00:00:00": {
+                "07:00:00": [
+                    "preferred",
+                    false
+                ],
+                "13:00:00": [
+                    "preferred",
+                    false
+                ]
+            },
+            "2024-11-20": {
+                "07:00:00": [
+                    "preferred",
+                    false
+                ],
+                "13:00:00": [
+                    "preferred",
+                    false
+                ]
+            }
+        },
+        "shift_length_minutes": 360,
+        "shift_times": [
+            "07:00:00",
+            "13:00:00"
+        ],
+        "_Person__shift_availability": {
+            "SUN": {
+                "07:00:00": "available",
+                "13:00:00": "available"
+            },
+            "MON": {
+                "07:00:00": "available",
+                "13:00:00": "available"
+            },
+            "TUE": {
+                "07:00:00": "available",
+                "13:00:00": "available"
+            },
+            "WED": {
+                "07:00:00": "available",
+                "13:00:00": "available"
+            },
+            "THU": {
+                "07:00:00": "available",
+                "13:00:00": "available"
+            },
+            "FRI": {
+                "07:00:00": "available",
+                "13:00:00": "available"
+            },
+            "SAT": {
+                "07:00:00": "available",
+                "13:00:00": "available"
+            }
+        }
+    }
+}
