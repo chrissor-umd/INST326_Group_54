@@ -1,0 +1,354 @@
+{
+    "PERSON0": {
+        "is_person": true,
+        "name": "person0",
+        "phone": null,
+        "email": null,
+        "hours": 12,
+        "_Person__pay_rate": 0,
+        "_Person__shift_exceptions": {},
+        "shift_length_minutes": 360,
+        "shift_times": [
+            "07:00:00",
+            "13:00:00"
+        ],
+        "_Person__shift_availability": {
+            "SUN": {
+                "07:00:00": "available",
+                "13:00:00": "preferred"
+            },
+            "MON": {
+                "07:00:00": "available",
+                "13:00:00": "unavailable"
+            },
+            "TUE": {
+                "07:00:00": "available",
+                "13:00:00": "unavailable"
+            },
+            "WED": {
+                "07:00:00": "preferred",
+                "13:00:00": "unavailable"
+            },
+            "THU": {
+                "07:00:00": "available",
+                "13:00:00": "preferred"
+            },
+            "FRI": {
+                "07:00:00": "preferred",
+                "13:00:00": "unavailable"
+            },
+            "SAT": {
+                "07:00:00": "available",
+                "13:00:00": "unavailable"
+            }
+        }
+    },
+    "PERSON1": {
+        "is_person": true,
+        "name": "person1",
+        "phone": null,
+        "email": null,
+        "hours": 12,
+        "_Person__pay_rate": 0,
+        "_Person__shift_exceptions": {},
+        "shift_length_minutes": 360,
+        "shift_times": [
+            "07:00:00",
+            "13:00:00"
+        ],
+        "_Person__shift_availability": {
+            "SUN": {
+                "07:00:00": "unavailable",
+                "13:00:00": "available"
+            },
+            "MON": {
+                "07:00:00": "available",
+                "13:00:00": "preferred"
+            },
+            "TUE": {
+                "07:00:00": "available",
+                "13:00:00": "unavailable"
+            },
+            "WED": {
+                "07:00:00": "preferred",
+                "13:00:00": "unavailable"
+            },
+            "THU": {
+                "07:00:00": "preferred",
+                "13:00:00": "unavailable"
+            },
+            "FRI": {
+                "07:00:00": "unavailable",
+                "13:00:00": "preferred"
+            },
+            "SAT": {
+                "07:00:00": "available",
+                "13:00:00": "available"
+            }
+        }
+    },
+    "PERSON2": {
+        "is_person": true,
+        "name": "person2",
+        "phone": null,
+        "email": null,
+        "hours": 12,
+        "_Person__pay_rate": 0,
+        "_Person__shift_exceptions": {},
+        "shift_length_minutes": 360,
+        "shift_times": [
+            "07:00:00",
+            "13:00:00"
+        ],
+        "_Person__shift_availability": {
+            "SUN": {
+                "07:00:00": "available",
+                "13:00:00": "unavailable"
+            },
+            "MON": {
+                "07:00:00": "available",
+                "13:00:00": "available"
+            },
+            "TUE": {
+                "07:00:00": "available",
+                "13:00:00": "preferred"
+            },
+            "WED": {
+                "07:00:00": "available",
+                "13:00:00": "unavailable"
+            },
+            "THU": {
+                "07:00:00": "available",
+                "13:00:00": "preferred"
+            },
+            "FRI": {
+                "07:00:00": "unavailable",
+                "13:00:00": "available"
+            },
+            "SAT": {
+                "07:00:00": "preferred",
+                "13:00:00": "unavailable"
+            }
+        }
+    },
+    "PERSON3": {
+        "is_person": true,
+        "name": "person3",
+        "phone": null,
+        "email": null,
+        "hours": 12,
+        "_Person__pay_rate": 0,
+        "_Person__shift_exceptions": {},
+        "shift_length_minutes": 360,
+        "shift_times": [
+            "07:00:00",
+            "13:00:00"
+        ],
+        "_Person__shift_availability": {
+            "SUN": {
+                "07:00:00": "available",
+                "13:00:00": "preferred"
+            },
+            "MON": {
+                "07:00:00": "available",
+                "13:00:00": "unavailable"
+            },
+            "TUE": {
+                "07:00:00": "available",
+                "13:00:00": "unavailable"
+            },
+            "WED": {
+                "07:00:00": "preferred",
+                "13:00:00": "unavailable"
+            },
+            "THU": {
+                "07:00:00": "available",
+                "13:00:00": "available"
+            },
+            "FRI": {
+                "07:00:00": "preferred",
+                "13:00:00": "preferred"
+            },
+            "SAT": {
+                "07:00:00": "unavailable",
+                "13:00:00": "preferred"
+            }
+        }
+    },
+    "PERSON4": {
+        "is_person": true,
+        "name": "person4",
+        "phone": null,
+        "email": null,
+        "hours": 6,
+        "_Person__pay_rate": 0,
+        "_Person__shift_exceptions": {},
+        "shift_length_minutes": 360,
+        "shift_times": [
+            "07:00:00",
+            "13:00:00"
+        ],
+        "_Person__shift_availability": {
+            "SUN": {
+                "07:00:00": "preferred",
+                "13:00:00": "available"
+            },
+            "MON": {
+                "07:00:00": "available",
+                "13:00:00": "preferred"
+            },
+            "TUE": {
+                "07:00:00": "preferred",
+                "13:00:00": "preferred"
+            },
+            "WED": {
+                "07:00:00": "available",
+                "13:00:00": "unavailable"
+            },
+            "THU": {
+                "07:00:00": "available",
+                "13:00:00": "unavailable"
+            },
+            "FRI": {
+                "07:00:00": "unavailable",
+                "13:00:00": "preferred"
+            },
+            "SAT": {
+                "07:00:00": "unavailable",
+                "13:00:00": "available"
+            }
+        }
+    },
+    "PERSON5": {
+        "is_person": true,
+        "name": "person5",
+        "phone": null,
+        "email": null,
+        "hours": 12,
+        "_Person__pay_rate": 0,
+        "_Person__shift_exceptions": {},
+        "shift_length_minutes": 360,
+        "shift_times": [
+            "07:00:00",
+            "13:00:00"
+        ],
+        "_Person__shift_availability": {
+            "SUN": {
+                "07:00:00": "unavailable",
+                "13:00:00": "unavailable"
+            },
+            "MON": {
+                "07:00:00": "preferred",
+                "13:00:00": "unavailable"
+            },
+            "TUE": {
+                "07:00:00": "unavailable",
+                "13:00:00": "unavailable"
+            },
+            "WED": {
+                "07:00:00": "available",
+                "13:00:00": "preferred"
+            },
+            "THU": {
+                "07:00:00": "preferred",
+                "13:00:00": "available"
+            },
+            "FRI": {
+                "07:00:00": "unavailable",
+                "13:00:00": "preferred"
+            },
+            "SAT": {
+                "07:00:00": "preferred",
+                "13:00:00": "unavailable"
+            }
+        }
+    },
+    "PERSON6": {
+        "is_person": true,
+        "name": "person6",
+        "phone": null,
+        "email": null,
+        "hours": 12,
+        "_Person__pay_rate": 0,
+        "_Person__shift_exceptions": {},
+        "shift_length_minutes": 360,
+        "shift_times": [
+            "07:00:00",
+            "13:00:00"
+        ],
+        "_Person__shift_availability": {
+            "SUN": {
+                "07:00:00": "preferred",
+                "13:00:00": "preferred"
+            },
+            "MON": {
+                "07:00:00": "available",
+                "13:00:00": "preferred"
+            },
+            "TUE": {
+                "07:00:00": "unavailable",
+                "13:00:00": "available"
+            },
+            "WED": {
+                "07:00:00": "unavailable",
+                "13:00:00": "available"
+            },
+            "THU": {
+                "07:00:00": "unavailable",
+                "13:00:00": "unavailable"
+            },
+            "FRI": {
+                "07:00:00": "unavailable",
+                "13:00:00": "available"
+            },
+            "SAT": {
+                "07:00:00": "unavailable",
+                "13:00:00": "available"
+            }
+        }
+    },
+    "STEWART": {
+        "is_person": true,
+        "name": "stewart",
+        "phone": null,
+        "email": null,
+        "hours": 0,
+        "_Person__pay_rate": 0,
+        "_Person__shift_exceptions": {},
+        "shift_length_minutes": 360,
+        "shift_times": [
+            "07:00:00",
+            "13:00:00"
+        ],
+        "_Person__shift_availability": {
+            "SUN": {
+                "07:00:00": "unavailable",
+                "13:00:00": "unavailable"
+            },
+            "MON": {
+                "07:00:00": "unavailable",
+                "13:00:00": "unavailable"
+            },
+            "TUE": {
+                "07:00:00": "unavailable",
+                "13:00:00": "unavailable"
+            },
+            "WED": {
+                "07:00:00": "unavailable",
+                "13:00:00": "unavailable"
+            },
+            "THU": {
+                "07:00:00": "unavailable",
+                "13:00:00": "unavailable"
+            },
+            "FRI": {
+                "07:00:00": "unavailable",
+                "13:00:00": "unavailable"
+            },
+            "SAT": {
+                "07:00:00": "unavailable",
+                "13:00:00": "unavailable"
+            }
+        }
+    }
+}
