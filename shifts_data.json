@@ -1,7 +1,7 @@
 {
     "SUN": {
         "07:00:00": [
-            "PERSON6"
+            "STEWART"
         ],
         "13:00:00": [
             "PERSON4"
@@ -9,18 +9,18 @@
     },
     "MON": {
         "07:00:00": [
-            "PERSON5"
+            "PERSON2"
         ],
         "13:00:00": [
-            "PERSON6"
+            "PERSON4"
         ]
     },
     "TUE": {
         "07:00:00": [
-            "PERSON4"
+            "PERSON6"
         ],
         "13:00:00": [
-            "PERSON2"
+            "PERSON1"
         ]
     },
     "WED": {
@@ -33,10 +33,10 @@
     },
     "THU": {
         "07:00:00": [
-            "PERSON1"
+            "PERSON3"
         ],
         "13:00:00": [
-            "PERSON3"
+            "PERSON2"
         ]
     },
     "FRI": {
@@ -44,15 +44,15 @@
             "PERSON0"
         ],
         "13:00:00": [
-            "PERSON1"
+            "PERSON6"
         ]
     },
     "SAT": {
         "07:00:00": [
-            "PERSON2"
+            "PERSON1"
         ],
         "13:00:00": [
-            "PERSON3"
+            "PERSON4"
         ]
     }
 }
